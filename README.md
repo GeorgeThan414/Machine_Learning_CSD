@@ -1,6 +1,8 @@
 Machine Learning 
-This repository contains each task of the machine learning master course from Aristotle University of Thessaloniki
-All the weekly exercises are inside the Exercises folder.
+
+This repository contains all the tasks from the Machine Learning master’s course at the Aristotle University of Thessaloniki. 
+
+All weekly exercises are located in the Exercises folder.
 
 # Project Description
 This repository contains a PyTorch-based implementation for estimating household-level daily per-capita consumption and computing poverty rates using household survey data from the World Bank Poverty Estimation Challenge. The task is formulated as a regression problem at the household level, where predicted consumption values are later aggregated to estimate poverty rates at predefined thresholds.
